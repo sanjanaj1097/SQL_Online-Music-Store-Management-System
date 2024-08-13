@@ -1,3 +1,6 @@
+SQL Project - ONLINE MUSIC STORE MANAGEMENT SYSTEM
+--------------------------------------------------
+
 The objective of this SQL project is to design and implement a comprehensive
 database for an Online Music Store Management System.
 
